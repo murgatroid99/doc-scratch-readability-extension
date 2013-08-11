@@ -1,6 +1,6 @@
 {
   "name" : "Doc Scratch Readability Improver",
-  "version" : "0.1.0",
+  "version" : "0.2.0",
   "manifest_version" : 2,
   "description" : "Makes Doc Scratch's text more easily readable",
   "background" : {
